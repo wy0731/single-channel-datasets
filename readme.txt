@@ -1,0 +1,1 @@
+we propose a special coding strategy named as single-channel encoding strategy
